@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://xuyao-hu.github.io/sitemap.xml
