@@ -18,7 +18,7 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-**This website is still under construction! ! !**
+**This website is still under construction!!!**
 
 I'm a theoretical physicist, currently a PhD candidate at New York University.
 My current research focuses on Quantum Gravity, Quantum Field Theory, and Quantum Chaos.
