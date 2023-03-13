@@ -14,16 +14,16 @@ profile:
   #   <p>123 your address street</p>
   #   <p>Your City, State 12345</p>
 
-news: false  # includes a list of news items
+news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-**This website is still under construction!**
+**This website is still under construction! ! !**
 
 I'm a theoretical physicist, currently a PhD candidate at New York University.
 My current research focuses on Quantum Gravity, Quantum Field Theory, and Quantum Chaos.
 
-I will be completing my PhD at New York University in 2023, supervised by [Matthew Kleban](https://cosmo.nyu.edu/index.php/people/information/?userid=9Lzn5tSgPg). During my graduate studies, I have been working on nonperturbative effects in Quantum Field Theory through the lens of lattice gauge theory simulation and worldline formalism, classical and quantum aspects of chaos and turbulence, and de Sitter holography. 
+I will be completing my PhD at New York University in 2023, supervised by [Matthew Kleban](https://cosmo.nyu.edu/index.php/people/information/?userid=9Lzn5tSgPg). Throughout my graduate studies, I have focused primarily on three areas: nonperturbative effects in Quantum Field Theory using lattice gauge theory simulation and worldline formalism; classical and quantum aspects of chaos and turbulence; and de Sitter holography.
 
 More recently, I'm exploring double-scaled Sachdev-Ye-Kitaev (DSSYK) model and its possible connection to quantum gravity.
 
